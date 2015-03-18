@@ -1,0 +1,27 @@
+C:\Users\George\documents\visual studio 2010\Projects\GLembedded\GLembedded\obj\x86\Release\GLembedded.csprojResolveAssemblyReference.cache
+C:\Users\George\documents\visual studio 2010\Projects\GLembedded\GLembedded\obj\x86\Release\GLembedded.Window.resources
+C:\Users\George\documents\visual studio 2010\Projects\GLembedded\GLembedded\obj\x86\Release\GLembedded.Properties.Resources.resources
+C:\Users\George\documents\visual studio 2010\Projects\GLembedded\GLembedded\obj\x86\Release\GLembedded.csproj.GenerateResource.Cache
+C:\Users\George\Documents\Visual Studio 2010\Projects\GLembedded - Copy\GLembedded\obj\x86\Release\GLembedded.csprojResolveAssemblyReference.cache
+C:\Users\George\Documents\Visual Studio 2010\Projects\GLembedded - Copy\GLembedded\obj\x86\Release\GLembedded.Form1.resources
+C:\Users\George\Documents\Visual Studio 2010\Projects\GLembedded - Copy\GLembedded\obj\x86\Release\GLembedded.Properties.Resources.resources
+C:\Users\George\Documents\Visual Studio 2010\Projects\GLembedded - Copy\GLembedded\obj\x86\Release\GLembedded.csproj.GenerateResource.Cache
+C:\Users\George\Documents\Visual Studio 2010\Projects\GLembedded - Copy\GLembedded\bin\Release\GLembedded.exe
+C:\Users\George\Documents\Visual Studio 2010\Projects\GLembedded - Copy\GLembedded\bin\Release\GLembedded.pdb
+C:\Users\George\Documents\Visual Studio 2010\Projects\GLembedded - Copy\GLembedded\bin\Release\AForge.dll
+C:\Users\George\Documents\Visual Studio 2010\Projects\GLembedded - Copy\GLembedded\bin\Release\AForge.Imaging.dll
+C:\Users\George\Documents\Visual Studio 2010\Projects\GLembedded - Copy\GLembedded\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\George\Documents\Visual Studio 2010\Projects\GLembedded - Copy\GLembedded\bin\Release\AForge.Video.dll
+C:\Users\George\Documents\Visual Studio 2010\Projects\GLembedded - Copy\GLembedded\bin\Release\OpenTK.dll
+C:\Users\George\Documents\Visual Studio 2010\Projects\GLembedded - Copy\GLembedded\bin\Release\OpenTK.GLControl.dll
+C:\Users\George\Documents\Visual Studio 2010\Projects\GLembedded - Copy\GLembedded\bin\Release\AForge.Math.dll
+C:\Users\George\Documents\Visual Studio 2010\Projects\GLembedded - Copy\GLembedded\bin\Release\AForge.xml
+C:\Users\George\Documents\Visual Studio 2010\Projects\GLembedded - Copy\GLembedded\bin\Release\AForge.Imaging.xml
+C:\Users\George\Documents\Visual Studio 2010\Projects\GLembedded - Copy\GLembedded\bin\Release\AForge.Video.xml
+C:\Users\George\Documents\Visual Studio 2010\Projects\GLembedded - Copy\GLembedded\bin\Release\AForge.Video.DirectShow.xml
+C:\Users\George\Documents\Visual Studio 2010\Projects\GLembedded - Copy\GLembedded\bin\Release\OpenTK.pdb
+C:\Users\George\Documents\Visual Studio 2010\Projects\GLembedded - Copy\GLembedded\bin\Release\OpenTK.xml
+C:\Users\George\Documents\Visual Studio 2010\Projects\GLembedded - Copy\GLembedded\bin\Release\OpenTK.GLControl.xml
+C:\Users\George\Documents\Visual Studio 2010\Projects\GLembedded - Copy\GLembedded\bin\Release\AForge.Math.xml
+C:\Users\George\Documents\Visual Studio 2010\Projects\GLembedded - Copy\GLembedded\obj\x86\Release\GLembedded.exe
+C:\Users\George\Documents\Visual Studio 2010\Projects\GLembedded - Copy\GLembedded\obj\x86\Release\GLembedded.pdb
